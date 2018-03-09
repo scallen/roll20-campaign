@@ -10,7 +10,15 @@
     HTML Builder
     Welcome Package
     Status FX
-  +Changed Ebba's Initiative to always ADV
-  +Added Ammo Tracker
+  +Changed Ebba's Initiative to always ADV due to Ranger feature
+  +Added Ammo Tracker.  Make sure that all ranged weapons have the correct Ammo field in the weapon settings.
   +Edited Dynamic Lighting for Akta, Cestir, Ebba, Illik, Ondre, Blitz
   +Added npc Mk. 20XX
+  +Added Death Save Tracking (!deathsavetracking on)
+  +Added Roll-Initiative to all players' tokens
+  +Added Sneak Attack to Akta and Illik's Global Damage Modifier
+  +Removed Sneak Attack weapons from Akta and Illik
+  +Added Great Weapon Fighting (if roll 1 or 2 on damage then reroll once) to Cestir's greataxe
+  +Added Savage Attacks (roll an extra damage dice for crits) to Cestir's weapons
+  +Changed Blitz's spells.  Alarm -> Expeditious Retreat
+  
