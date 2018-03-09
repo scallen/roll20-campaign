@@ -1,5 +1,5 @@
 2018/03/08
-  Added API Scripts: 
+  +Added API Scripts: 
     Fumbler
     Vector Math
     World Map Discovery
@@ -10,5 +10,7 @@
     HTML Builder
     Welcome Package
     Status FX
-  Changed Ebba's Initiative to always ADV
-  
+  +Changed Ebba's Initiative to always ADV
+  +Added Ammo Tracker
+  +Edited Dynamic Lighting for Akta, Cestir, Ebba, Illik, Ondre, Blitz
+  +Added npc Mk. 20XX
